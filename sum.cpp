@@ -4,6 +4,6 @@ int main()
 {
 int a=10;
 int b=5;
-cout<<a+b;
+cout<<"The sum is "<<a+b;
 return 0;
 }
